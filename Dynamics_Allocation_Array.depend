@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519405374 source:d:\r_engineering\programming\c++\new_2018_self\dynamics_allocation_array\main.cpp
+	<iostream>
+	<stdlib.h>
+
